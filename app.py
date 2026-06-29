@@ -16,8 +16,11 @@ st.set_page_config(
 
 st.title("🐶🐱 Clasificador de Perros y Gatos")
 
-st.write("**Nombre del estudiante:** Arleth Bonilla")
-st.write("**Número de cuenta:** 20221900251")
+st.info("""
+**Nombre del estudiante:** Arleth Bonilla
+
+**Número de cuenta:** 2020XXXXXXXX
+""")
 
 st.write(
     "Sube una imagen y el modelo de Inteligencia Artificial indicará si corresponde a un perro o a un gato."
