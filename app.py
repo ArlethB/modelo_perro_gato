@@ -22,7 +22,7 @@ st.write(
 IMG_SIZE = (224, 224)
 
 # Carpeta donde están el modelo y las clases
-MODEL_DIR = Path("modelo_perro_gato")
+MODEL_DIR = Path("modelo_perros_gatos")
 
 CLASS_PATH = MODEL_DIR / "class_names.json"
 
