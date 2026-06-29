@@ -2,5 +2,6 @@ tensorflow
 matplotlib
 numpy
 streamlit
+Pillow
 h5
 keras
