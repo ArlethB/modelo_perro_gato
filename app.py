@@ -19,7 +19,7 @@ st.title("🐶🐱 Clasificador de Perros y Gatos")
 st.info("""
 **Nombre del estudiante:** Arleth Bonilla
 
-**Número de cuenta:** 2020XXXXXXXX
+**Número de cuenta:** 20221900251
 """)
 
 st.write(
